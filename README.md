@@ -1,7 +1,7 @@
 ## Hi, I'm Denisse De la Cruz! ✌🏼 <br/>
 
-💻 I´m a Software Engenieer Student <br/>
-⌨️ Currently learning Python and JavaScript.<br/>
+💻 I´m a Software Engeneer Student <br/>
+⌨️ Currently learning JavaScript.<br/>
 📧 My LinkedIn profile: https://www.linkedin.com/in/milagros-denisse-de-la-cruz-mancebo-1477aa212/ <br/>
 
 
