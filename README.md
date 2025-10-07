@@ -1,6 +1,7 @@
 ## Hi, I'm Denisse De la Cruz! ✌🏼 <br/>
 
-💻 I´m a Software Engineer Student <br/>
+💻 I´m a Software Engineer Student at UNICARIBE <br/>
+📍 Dominican Republic <br/>
 ⌨️ Currently learning JavaScript.<br/>
 📧 My LinkedIn profile: https://www.linkedin.com/in/milagros-denisse-de-la-cruz-mancebo-1477aa212/ <br/>
 
