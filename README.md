@@ -2,7 +2,7 @@
 
 💻 I´m a Software Engineer Student at UNICARIBE <br/>
 📍 Dominican Republic <br/>
-⌨️ Currently learning JavaScript.<br/>
+⌨️ Currently learning JavaScript and React <br/>
 📧 My LinkedIn profile: https://www.linkedin.com/in/milagros-denisse-de-la-cruz-mancebo-1477aa212/ <br/>
 
 # 💻 Tech Stack:
